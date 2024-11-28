@@ -1,0 +1,7 @@
+torch
+torchvision
+tensorboard
+pandas
+xgboost
+sklearn
+scipy
